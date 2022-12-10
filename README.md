@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**alperefesahin/alperefesahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔭 I’m currently working on the open source projects and tutorials<br>
+* 🧑‍💻 I’m looking to collaborate on open-source projects<br>
+* 💬 Ask me about Flutter and Dart<br>
+* 😄 Pronouns: he/him/his<br>
+* ⚡ Fun fact: I’m studying Math at Iztech <br>
+* 📫 How to reach me: YouTube & Medium: @sahinefe Twitter: @alperefesahin
 
-Here are some ideas to get you started:
+### Quick links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahinefe/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahinefe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alperefesahin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCcsgi-iDYAtQPmWI7I8e0pg) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=alperefesahin&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>

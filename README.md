@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🔭 I’m currently working on the open source projects and tutorials<br>
+* 🔭 I’m currently working at Pera<br>
 * 🧑‍💻 I’m looking to collaborate on open-source projects<br>
 * 💬 Ask me about Flutter and Dart<br>
 * 😄 Pronouns: he/him/his<br>

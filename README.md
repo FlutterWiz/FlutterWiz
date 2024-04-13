@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-* 🔭 I’m currently searching a company, ex: Maxi Digital GmbH<br>
+* 🔭 I’m currently searching a company to work as Mid to Senior Flutter Developer, or Jr. Data Engineer.
+
+     ex: Flutter Developer at Maxi Digital GmbH<br>
 * 🧑‍💻 I’m looking to collaborate on open-source projects<br>
-* 💬 Ask me about Flutter and Dart<br>
+* 💬 Ask me about Flutter,Dart,Python,Data<br>
 * 😄 Pronouns: he/him/his<br>
 * ⚡ Fun fact: I’m studying Math at Iztech <br>
 * 📫 How to reach me: YouTube & Medium: @alperefesahin Twitter: @alperefesahin

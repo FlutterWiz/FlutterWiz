@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🔭 I’m currently deepening my expertise in machine learning and AI.
+* 🤖 I’m currently deepening my expertise in machine learning and AI.
      ex: Flutter Developer<br>
 * 🧑‍💻 I was creating open source projects, and developing a side project (https://pixelsofcrypto.com)<br>
 * 📫 How to reach me: LinkedIn, YouTube, Medium, Twitter: @alperefesahin

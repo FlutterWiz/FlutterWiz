@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm FlutterWiz</h1>
 
 <p align="center">
-  🚀 Creating open-source projects & building Flutter packages.
+  🚀 Building innovative Flutter packages & sharing my journey in mobile development.
 </p>
 
 ---

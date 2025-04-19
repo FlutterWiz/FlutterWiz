@@ -1,15 +1,23 @@
-<h1 align="center">Hi there! 👋 I'm FlutterWiz</h1>
+[![FlutterWiz's Github Stats](https://github-readme-stats.vercel.app/api?username=FlutterWiz&count_private=true&theme=transparent&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/FlutterWiz)
 
-<p align="center">
-  🚀 Creating open-source projects, recording YouTube tutorials, writing Medium articles & building Flutter packages.
-</p>
+### Hi there 👋
 
----
+I'm Alper Efe Sahin aka FlutterWiz.
 
-### 📫 Connect with Me  
-🔗 Find me on **LinkedIn, Medium, X, and YouTube**: @FlutterWiz  
+### Most Starred Open-Source Projects
 
-<p align="center">
+[![Flutter Social Chat](https://github-readme-stats.vercel.app/api/pin/?username=FlutterWiz&repo=flutter_social_chat)](https://github.com/FlutterWiz/flutter_social_chat)
+
+[![Flutter Video Feed](https://github-readme-stats.vercel.app/api/pin/?username=FlutterWiz&repo=flutter_video_feed)](https://github.com/FlutterWiz/flutter_video_feed)
+
+### Sponsors 🤝
+
+  <a href="https://getstream.io/chat/flutter/tutorial/?utm_source=GitHub&utm_medium=referral&utm_content=&utm_campaign=flutter_social_chat">
+    <img src="https://getstream.io/stream-light.png" alt="Stream Logo" width="250"/>
+  </a>
+
+### Connect with Me
+
   <a href="https://linkedin.com/in/alperefesahin">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -22,10 +30,6 @@
   <a href="https://www.youtube.com/@FlutterWiz">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
   </a>
-</p>
 
----
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/07356d53-3b47-4309-a9f0-ed6acd04b28e" width="80%" alt="Banner">
-</p>
+<img src="https://github.com/user-attachments/assets/07356d53-3b47-4309-a9f0-ed6acd04b28e" width="80%" alt="Banner">

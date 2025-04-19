@@ -1,14 +1,8 @@
-[![FlutterWiz's Github Stats](https://github-readme-stats.vercel.app/api?username=FlutterWiz&count_private=true&theme=transparent&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/FlutterWiz)
+[![FlutterWiz's Github Stats](https://github-readme-stats.vercel.app/api?username=FlutterWiz&count_private=true&theme=tokyonight&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/FlutterWiz)
 
 ### Hi there 👋
 
 I'm Alper Efe Sahin aka FlutterWiz.
-
-### Most Starred Open-Source Projects
-
-[![Flutter Social Chat](https://github-readme-stats.vercel.app/api/pin/?username=FlutterWiz&repo=flutter_social_chat)](https://github.com/FlutterWiz/flutter_social_chat)
-
-[![Flutter Video Feed](https://github-readme-stats.vercel.app/api/pin/?username=FlutterWiz&repo=flutter_video_feed)](https://github.com/FlutterWiz/flutter_video_feed)
 
 ### Sponsors 🤝
 
